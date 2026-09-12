@@ -1,0 +1,91 @@
+
+
+.center {
+  margin: auto;
+}
+
+body{
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Arial', sans-serif;
+    margin: auto;
+    background-color: red;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(0, 0, 0);
+    margin:auto;
+    color: white;
+
+}
+
+img{
+    display:flex;
+    margin:auto;
+    width: 50%;
+    background-color: rgb(88, 86, 86);
+}
+
+table{
+    align: center;
+    width: 100%;
+    margin: auto;
+}
+
+table, th, td{
+    text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th{
+    background-color: red;
+    text-align: center; 
+}
+
+td{
+    background-color:rgb(251, 167, 167);
+    color: black;
+}
+
+h3{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3.SpecialOffer{
+    font-size: 25px;
+    margin: auto;
+}
+
+h3.lowprice{
+    text-decoration: line-through;
+    color: red;
+    margin: auto;
+}
+
+h3.text1{
+    margin-bottom: auto;
+}
+
+p{
+    margin-top: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th.Special{
+    border: 1px solid;
+}
+
+
+
